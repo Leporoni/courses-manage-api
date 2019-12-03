@@ -12,7 +12,7 @@
 	<artifactId>courses-manage-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>courses-manage-api</name>
-	<description>App to manage courses and instructors</description>
+	<description>App to manage courses and instructors.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
